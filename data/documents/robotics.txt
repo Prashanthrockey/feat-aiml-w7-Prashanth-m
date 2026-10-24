@@ -1,0 +1,1 @@
+Robotics combines mechanical engineering, electronics, sensors, and software to build robots. A robot uses sensors to collect information, a controller to make decisions, and actuators to perform actions.

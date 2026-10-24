@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "According to the sources, artificial intelligence (AI) is a branch of computer science that enables machines to perform tasks such as:\n\n* Reasoning\n* Problem solving\n* Language understanding\n* Decision making\n\nIt is used in various fields, including healthcare, education, robotics, and transportation.",
+    "sources": [
+      "ai.txt",
+      "computer vision.txt",
+      "machine learning.txt"
+    ],
+    "response_time_seconds": 33.16
+  },
+  {
+    "question": "How does sensor fusion help robots?",
+    "answer": "Sensor fusion helps robots by making their navigation and reliability better. It combines data from multiple sensors like camera, GPS, radar, and inertial sensors to improve the object's position or condition.",
+    "sources": [
+      "computer vision.txt",
+      "robotics.txt",
+      "sensor fusion.txt"
+    ],
+    "response_time_seconds": 18.34
+  },
+  {
+    "question": "What is the role of computer vision in autonomous vehicles?",
+    "answer": "Computer vision helps identify things in images and videos, such as vehicles, pedestrians, road signs, and obstacles, which is used to make decisions in autonomous vehicles.",
+    "sources": [
+      "ai.txt",
+      "computer vision.txt",
+      "sensor fusion.txt"
+    ],
+    "response_time_seconds": 15.52
+  }
+]

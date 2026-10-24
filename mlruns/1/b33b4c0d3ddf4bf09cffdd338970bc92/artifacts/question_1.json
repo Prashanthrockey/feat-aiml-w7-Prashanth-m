@@ -1,0 +1,10 @@
+{
+  "question": "What is artificial intelligence?",
+  "answer": "According to the sources, artificial intelligence (AI) is a branch of computer science that enables machines to perform tasks such as:\n\n* Reasoning\n* Problem solving\n* Language understanding\n* Decision making\n\nIt is used in various fields, including healthcare, education, robotics, and transportation.",
+  "sources": [
+    "ai.txt",
+    "computer vision.txt",
+    "machine learning.txt"
+  ],
+  "response_time_seconds": 33.16
+}

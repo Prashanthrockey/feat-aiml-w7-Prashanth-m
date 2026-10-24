@@ -1,0 +1,22 @@
+Week 7 AI/ML Projects
+
+ W7D1: Haystack
+Built a document-processing pipeline using Haystack.
+
+W7D2: Retrieval
+Compared BM25 and dense retrieval methods.
+
+W7D3: LlamaIndex
+Created document indexes and queried ChromaDB using Ollama.
+
+W7D4: Ollama
+Tested five prompts and compared Llama 3.2 with Qwen 2.5.
+
+W7D5: Multi-document RAG
+Built a RAG system using ChromaDB, Ollama, LangGraph, and MLflow.
+
+Technologies
+Python, Haystack, LlamaIndex, Ollama, ChromaDB, LangGraph, MLflow, CrewAI, Ragas.
+
+
+

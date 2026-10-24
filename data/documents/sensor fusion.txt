@@ -1,0 +1,1 @@
+Sensor fusion combines data from multiple sensors to improve the estimation of an object's position or condition. Robots may combine camera, GPS, radar, and inertial sensor data to improve navigation and reliability.

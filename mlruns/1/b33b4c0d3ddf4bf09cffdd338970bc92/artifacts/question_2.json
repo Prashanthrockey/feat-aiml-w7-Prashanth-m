@@ -1,0 +1,10 @@
+{
+  "question": "How does sensor fusion help robots?",
+  "answer": "Sensor fusion helps robots by making their navigation and reliability better. It combines data from multiple sensors like camera, GPS, radar, and inertial sensors to improve the object's position or condition.",
+  "sources": [
+    "computer vision.txt",
+    "robotics.txt",
+    "sensor fusion.txt"
+  ],
+  "response_time_seconds": 18.34
+}

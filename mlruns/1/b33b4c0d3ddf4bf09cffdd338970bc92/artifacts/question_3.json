@@ -1,0 +1,10 @@
+{
+  "question": "What is the role of computer vision in autonomous vehicles?",
+  "answer": "Computer vision helps identify things in images and videos, such as vehicles, pedestrians, road signs, and obstacles, which is used to make decisions in autonomous vehicles.",
+  "sources": [
+    "ai.txt",
+    "computer vision.txt",
+    "sensor fusion.txt"
+  ],
+  "response_time_seconds": 15.52
+}

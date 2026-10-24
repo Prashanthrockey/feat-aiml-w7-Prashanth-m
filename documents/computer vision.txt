@@ -1,0 +1,1 @@
+Computer vision enables computers to understand images and videos. Common tasks include image classification, object detection, and object tracking. Autonomous vehicles use computer vision to identify vehicles, pedestrians, road signs, and obstacles.
